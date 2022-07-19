@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-07-17T21:41:29.110+09:00
+  lastUpdatedAtString: 2022-07-19T19:58:57.847+09:00
   initializedAtString: 2022-07-16T19:29:16.539+09:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/KYOHEI-jp/Cube-runner.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/KYOHEI-jp/Cube-runner.git
