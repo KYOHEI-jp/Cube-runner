@@ -13,18 +13,157 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-07-19T20:09:11.709+09:00
+  lastUpdatedAtString: 2022-07-21T23:57:02.270+09:00
   initializedAtString: 2022-07-16T19:29:16.692+09:00
   entries:
+  - path: .vs/Cube Runner/xs/project-cache/Assembly-CSharp-Debug.json
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/.vs/Cube Runner/xs/project-cache/Assembly-CSharp-Debug.json
+    projectPath: .vs/Cube Runner/xs/project-cache/Assembly-CSharp-Debug.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/GameManager.cs
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Assets/Scripts/GameManager.cs
+    projectPath: Assets/Scripts/GameManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Assets/TextMesh Pro/Resources/Fonts
+      & Materials/LiberationSans SDF.asset
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/02/020584320bb25d4daa9c16bfc9006d16
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Artifacts/02/020584320bb25d4daa9c16bfc9006d16
+    projectPath: Library/Artifacts/02/020584320bb25d4daa9c16bfc9006d16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/15/153909527367ac70b88b72dd7d80f9c5
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Artifacts/15/153909527367ac70b88b72dd7d80f9c5
+    projectPath: Library/Artifacts/15/153909527367ac70b88b72dd7d80f9c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5a/5a55a0e4a423c9f35cefafb12eb8284e
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Artifacts/5a/5a55a0e4a423c9f35cefafb12eb8284e
+    projectPath: Library/Artifacts/5a/5a55a0e4a423c9f35cefafb12eb8284e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/95/9536a2d264e5b4a16794625aab8fa3bd
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Artifacts/95/9536a2d264e5b4a16794625aab8fa3bd
+    projectPath: Library/Artifacts/95/9536a2d264e5b4a16794625aab8fa3bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ac/acf79b2e2cf2203f302d744e243d81c4
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Artifacts/ac/acf79b2e2cf2203f302d744e243d81c4
+    projectPath: Library/Artifacts/ac/acf79b2e2cf2203f302d744e243d81c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e1/e1803b5dcd43a9e8934dcfc0e41a5ab5
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Artifacts/e1/e1803b5dcd43a9e8934dcfc0e41a5ab5
+    projectPath: Library/Artifacts/e1/e1803b5dcd43a9e8934dcfc0e41a5ab5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll
+    projectPath: Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.pdb
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.pdb
+    projectPath: Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.ref.dll
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.ref.dll
+    projectPath: Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/backend_profiler0.traceevents
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/backend_profiler0.traceevents
+    projectPath: Library/Bee/backend_profiler0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/fullprofile.json
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/fullprofile.json
+    projectPath: Library/Bee/fullprofile.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/tundra.digestcache
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/tundra.digestcache
+    projectPath: Library/Bee/tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/tundra.log.json
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/tundra.log.json
+    projectPath: Library/Bee/tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/TundraBuildState.state
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/TundraBuildState.state
+    projectPath: Library/Bee/TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Bee/TundraBuildState.state.map
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Bee/TundraBuildState.state.map
+    projectPath: Library/Bee/TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SceneVisibilityState.asset
     fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Search/transactions.db
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/Search/transactions.db
+    projectPath: Library/Search/transactions.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -37,6 +176,12 @@ MonoBehaviour:
   - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
     projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/watanabekyouhei/Desktop/Unity/Cube Runner/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
